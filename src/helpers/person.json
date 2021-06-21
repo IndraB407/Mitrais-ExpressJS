@@ -1,0 +1,88 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Indra",
+      "age": 23,
+      "address": "Jalan Energi Gang Penghulu Agung, Ampenan"
+    },
+    {
+      "id": 2,
+      "name": "Ana",
+      "age": 20,
+      "address": "Jalan Energi Gang Arwana, Ampenan"
+    },
+    {
+      "id": 3,
+      "name": "Naufal",
+      "age": 22,
+      "address": "Jalan Sucipto Gang Mujair, Ampenan"
+    },
+    {
+      "id": 4,
+      "name": "Ezra",
+      "age": 24,
+      "address": "Jalan Swasembada 39 Kekalik Indah"
+    },
+    {
+      "id": 5,
+      "name": "Santoso",
+      "age": 43,
+      "address": "Jalan Gili Air Gg. Lele no 45"
+    },
+    {
+      "id": 6,
+      "name": "Sanusi",
+      "age": 43,
+      "address": "Jalan Gili Air Gg. Lele no 46"
+    },
+    {
+      "id": 7,
+      "name": "Warindi",
+      "age": 42,
+      "address": "Jalan Gili Air Gg. Lele no 47"
+    },
+    {
+      "id": 8,
+      "name": "Yuni",
+      "age": 39,
+      "address": "Jalan Gili Air Gg. Lele no 45"
+    },
+    {
+      "id": 9,
+      "name": "Layla",
+      "age": 38,
+      "address": "Jalan Gili Air Gg. Lele no 46"
+    },
+    {
+      "id": 10,
+      "name": "Aisyah",
+      "age": 42,
+      "address": "Jalan Gili Air Gg. Lele no 47"
+    },
+    {
+      "id": "11",
+      "name": "Marwan",
+      "age": "60",
+      "address": "Nitikan baru"
+    },
+    {
+      "id": "12",
+      "name": "Sayuti",
+      "age": "32",
+      "address": "Nitikan lama"
+    },
+    {
+      "id": "13",
+      "name": "Irma",
+      "age": "32",
+      "address": "Sidobali"
+    },
+    {
+      "id": "14",
+      "name": "Imron",
+      "age": "32",
+      "address": "Gatep"
+    }
+  ]
+}
